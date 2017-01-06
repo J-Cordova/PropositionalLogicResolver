@@ -1,0 +1,2 @@
+# PropositionalLogicResolver
+Resolves Propositional Logic Statements
